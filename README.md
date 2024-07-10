@@ -1,4 +1,5 @@
 Dog Breed Identification using PyTorch
+
 This repository contains Python scripts for a dog breed identification project using PyTorch. The project focuses on training a deep learning model (ResNet-18) to classify dog breeds based on images. Here's a breakdown of what you'll find:
 
 Data Handling: Loads dog breed images from the provided dataset using PyTorch's DataLoader and handles data transformations.
